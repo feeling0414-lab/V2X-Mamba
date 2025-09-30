@@ -3,7 +3,7 @@ inference.py
 --model_dir /home/hcz/HCZ/v2x-vit_myself/v2xvit/logs/teacher3/ --fusion_method early
 
 vis_data_sequence.py中
-color mode intensity：用强度表示； z-value：不同的z轴高度表示 constant：常数表示
+color mode intensity： z-value： constant：.
 
 Train your model
 V2X-ViT uses yaml file to configure all the parameters for training. To train your own model from scratch or a continued checkpoint, run the following commonds:
